@@ -19,3 +19,6 @@ A bar plot of the number of runners in each age category can be obtained with:
 
     parkrun.plot_AgeCat(results)
     
+This will produce the following image:
+
+![example](./output/Woodhouse_Age_Categories_458_04062016.png)
